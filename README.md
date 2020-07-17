@@ -1,2 +1,2 @@
 # JavaScript-Weather-App
-Weather App Web application using AccuWeather API
+Weather App web application using the AccuWeather API
